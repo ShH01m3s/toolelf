@@ -1,3 +1,0 @@
-# Process Explorer
-
-OS: win

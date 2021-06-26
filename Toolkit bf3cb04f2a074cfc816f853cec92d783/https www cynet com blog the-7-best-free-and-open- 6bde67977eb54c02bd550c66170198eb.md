@@ -1,1 +1,0 @@
-# https://www.cynet.com/blog/the-7-best-free-and-open-source-incident-response-tools/
